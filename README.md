@@ -57,9 +57,10 @@ Você pode então executar seu executável nativo com:
 
 Se quiser aprender mais sobre como construir executáveis nativos, consulte https://quarkus.io/guides/maven-tooling.html.
 
-Guias Relacionados
+# Guias Relacionados
 RESTEasy JAX-RS (guia): Framework de endpoints REST que implementa JAX-RS e mais.
-Código fornecido
+
+# Código fornecido
 
 RESTEasy JAX-RS: Inicie facilmente seus Serviços Web RESTful
 
